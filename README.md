@@ -1,0 +1,2 @@
+# MiniStore
+Fronted project
